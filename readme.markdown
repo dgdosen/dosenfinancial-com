@@ -1,6 +1,7 @@
 * dosenfinancial.com website
 
 git configuration information
+
 ```
 [remote "origin"]
 	fetch = +refs/heads/*:refs/remotes/origin/*
