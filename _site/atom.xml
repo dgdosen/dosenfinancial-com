@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Dosen Financial, LLC</title>
+ <link href="http://username.github.com/atom.xml" rel="self"/>
+ <link href="http://username.github.com"/>
+ <updated>2012-01-30T18:17:54-08:00</updated>
+ <id>http://username.github.com</id>
+ <author>
+   <name>Daniel Dosen</name>
+   <email>daniel@dosenfinanical.com</email>
+ </author>
+
+ 
+ 
+</feed>

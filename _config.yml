@@ -9,12 +9,12 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-url: http://xmlcom.com
-title: xml commerce
-tagline: A cadre of small finance and information technology businesses
+url: http://dosenfinancial.com
+title: Dosen Financial, LLC
+subtitle: Efficient, Effective Financial and Innovation Accounting
 author:
   name: Daniel Dosen
-  email: daniel@danieldosen.org
+  email: daniel@dosenfinanical.com
   github: dgdosen
   twitter: dgdosen
 
@@ -67,7 +67,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : dosenfinancial
     livefyre :
       site_id : 123
     intensedebate :
@@ -82,7 +82,7 @@ JB :
   analytics :
     provider : google
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UUA-25978153-1'
     getclicky :
       site_id : 
 
