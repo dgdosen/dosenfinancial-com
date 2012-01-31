@@ -9,3 +9,7 @@ source.old
 source/_stash
 source/stylesheets/screen.css
 vendor
+Thumbs.db
+!.gitkeep
+.rbenv-version
+.rvmrc
