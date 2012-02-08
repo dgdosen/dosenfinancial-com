@@ -1,4 +1,5 @@
 
+http://username.github.com/about.html
 http://username.github.com/archive.html
 http://username.github.com/atom.xml
 http://username.github.com/categories.html
