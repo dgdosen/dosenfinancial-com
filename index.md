@@ -3,9 +3,7 @@ layout: page
 title: Welcome to Dosen Financial
 ---
 {% include JB/setup %}
-This is the new website for Dosen Financial, LLC - Innovative, Efficitent and Effective Accounting
-
-*Please show a bit of patience while we update our web site! (February 2012)*
+### *Please show a bit of patience while we update our web site! (February 2012)*
 
 We provide efficient and cost effective financial management services for small to medium Homeowners' Associations (HOAs).  If you're currently a treasurer or board member of a HOA and have been looking for professional management services, chances are that current professional management is out of your price range. This is especially true for small and medium HOA's with between 3 and 20 units and where a board can't afford to pay a third (or more!) of their HOA revenues for property management.
 
@@ -20,7 +18,7 @@ Our Benefit to You:
 * Helps foster a greater sense of community
 * Honesty, Integrity and Value knowing that the principal of your management company is a certified member of both the American Institute of Certified Public Accountants and Community Associations Institute.
 
-## Our Services
+### Our Services
 Short Term Financial Management and Accounting:
 * Preparation and maintenance of a chart of accounts for your HOA.
 * Monthly Revenue Management: Billing, Cash Collection and Accounts Receivable Management of HOA member dues.
