@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Welcome to Dosen Financial
+title: Welcome
+group: navigation
 ---
 {% include JB/setup %}
 ### *Please show a bit of patience while we update our web site! (February 2012)*
