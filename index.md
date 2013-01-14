@@ -4,7 +4,6 @@ title: Welcome
 group: navigation
 ---
 {% include JB/setup %}
-### *Please show a bit of patience while we update our web site! (February 2012)*
 
 We provide efficient and cost effective financial management services for small to medium Homeowners' Associations (HOAs).  If you're currently a treasurer or board member of a HOA and have been looking for professional management services, chances are that current professional management is out of your price range. This is especially true for small and medium HOA's with between 3 and 20 units and where a board can't afford to pay a third (or more!) of their HOA revenues for property management.
 
