@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Welcome
-group: navigation
 ---
 {% include JB/setup %}
 
