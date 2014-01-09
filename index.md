@@ -39,4 +39,4 @@ Information Management:
 "One Off" Payment Processing:
 * With our automated process, you can generate one-off payment requests for your HOA needs, and your pre-established spending limits.
 
-x
+xx
